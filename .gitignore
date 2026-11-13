@@ -1,0 +1,7 @@
+*.swp
+build/
+*egg.info/
+# setuptools actually names the folder <pkg>.egg-info, which the line above does not match
+*.egg-info/
+__pycache__/
+.pytest_cache/

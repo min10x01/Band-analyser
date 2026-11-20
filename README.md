@@ -29,6 +29,8 @@ bandkit/
        |----- effective_mass.py # Polynomial fits along each path direction
        |----- splitting.py      # Rashba, Zeeman, Dresselhaus and exchange splitting
        |----- orbitals.py       # Projected weights and band character
+|----- README
+|----- LICENSE
 ```
 
 The effective mass comes from the curvature of the band at a band edge:

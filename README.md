@@ -56,7 +56,8 @@ orbital projections Bandkit reads.
   the dominant orbital, spin texture, effective-mass fits, Rashba markers and splitting arrows.
 
 ![Rashba-split bands coloured by spin texture, and the conduction-band splitting ΔE(k)](rashba_splitting.png)
-
+<img src="rashba_splitting.png" alt="Band structure of XYZ" width="600">
+<p align="center"><img src="rashba_splitting.png" width="600"></p>
 ## How to install
 
 You need Python 3.9 or newer. Bandkit depends on NumPy and Matplotlib.

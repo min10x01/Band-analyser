@@ -1,0 +1,13 @@
+[project]
+name = "Bandkit"
+version = "0.0.1"
+description = "Band data analyser"
+requires-python = ">=3.13"
+dependencies = ["h5py"]
+authors = [
+    {name = "Sankalpa Bora", email = "503829@doktorant.umk.pl"},
+]
+
+[build-system]
+requires = ["setuptools >= 77.0.3"]
+build-backend = "setuptools.build_meta"

@@ -55,6 +55,7 @@ orbital projections Bandkit reads.
 * **Plot** the bands with overlays that you switch on as needed: fat bands, projection gradients,
   the dominant orbital, spin texture, effective-mass fits, Rashba markers and splitting arrows.
 
+![Rashba-split bands coloured by spin texture, and the conduction-band splitting ΔE(k)](rashba_splitting.png)
 
 ## How to install
 
